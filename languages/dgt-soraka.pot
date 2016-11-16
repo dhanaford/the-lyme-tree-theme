@@ -1,0 +1,1601 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-26 10:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:18
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "We are sorry but the page you are looking for does not exist"
+msgstr ""
+
+#: 404.php:21
+msgid "Go To Home"
+msgstr ""
+
+#: author-bio.php:14
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "Comment <span>(1)</span>"
+msgid_plural "Comment <span>(%1$s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:63
+msgid "*Name"
+msgstr ""
+
+#: comments.php:64
+msgid "*Email"
+msgstr ""
+
+#: comments.php:65
+msgid "*Company"
+msgstr ""
+
+#: comments.php:69
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:70
+msgid "Leave Comment"
+msgstr ""
+
+#: comments.php:71
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:72
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: comments.php:73
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:75
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: content-large.php:39 content.php:39
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: content-link.php:31 content-single-cause.php:75 content-single-event.php:63 
+#: content-single.php:46 inc/template-tags.php:237
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-link.php:36 content-page.php:23 image.php:62
+msgid "Pages:"
+msgstr ""
+
+#: content-link.php:40 content-page.php:27 image.php:66
+msgid "Page"
+msgstr ""
+
+#: content-link.php:56 image.php:74 inc/theme-function.php:279
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-single-cause.php:39
+msgid "Raised: "
+msgstr ""
+
+#: content-single-cause.php:67 content-single.php:38
+msgid "0 Comment"
+msgstr ""
+
+#: content-single-cause.php:67 content-single.php:38
+msgid "1 Comment"
+msgstr ""
+
+#: content-single-cause.php:67 content-single.php:38
+msgid "% Comments"
+msgstr ""
+
+#: content-single-cause.php:68 content-single.php:39
+msgid "Post By:"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:124
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:126
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:215
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:216
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:320
+msgid "Icon Heading"
+msgstr ""
+
+#: image.php:26
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:27
+msgid "Next Image"
+msgstr ""
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: inc/customizer.php:46 inc/customizer.php:62 inc/customizer.php:67
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Purple"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Blue"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:80
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:86 inc/template-tags.php:94
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:89
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:97
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:118
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/theme-function.php:76
+msgid "Meta Box"
+msgstr ""
+
+#: inc/theme-function.php:81
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/theme-function.php:86
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/theme-function.php:109
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/theme-function.php:110
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/theme-function.php:111
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/theme-function.php:112
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/theme-function.php:113
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:114
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:115
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:116
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:117
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:118
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:119
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:120
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:121
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:122
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-function.php:123
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/theme-function.php:124
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/theme-function.php:125
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/theme-function.php:126
+msgid "Updated"
+msgstr ""
+
+#: inc/theme-function.php:139
+msgid "Newsletter Footer"
+msgstr ""
+
+#: inc/theme-function.php:141
+msgid "Widget Newsletter Footer on footer"
+msgstr ""
+
+#: inc/theme-function.php:148
+msgid "Footer 1"
+msgstr ""
+
+#: inc/theme-function.php:150
+msgid "Widget show on footer 1"
+msgstr ""
+
+#: inc/theme-function.php:157
+msgid "Footer 2"
+msgstr ""
+
+#: inc/theme-function.php:159
+msgid "Widget show on footer 2"
+msgstr ""
+
+#: inc/theme-function.php:166
+msgid "Footer 3"
+msgstr ""
+
+#: inc/theme-function.php:168
+msgid "Widget show on footer 3"
+msgstr ""
+
+#: inc/theme-function.php:175
+msgid "Footer 4"
+msgstr ""
+
+#: inc/theme-function.php:177
+msgid "Widget show on footer 4"
+msgstr ""
+
+#: inc/theme-function.php:184
+msgid "Shop"
+msgstr ""
+
+#: inc/theme-function.php:186
+msgid "Widget show on Shop Page"
+msgstr ""
+
+#: inc/theme-function.php:193 woocommerce/single-product.php:40
+msgid "Product Details"
+msgstr ""
+
+#: inc/theme-function.php:195
+msgid "Widget show on Product Details"
+msgstr ""
+
+#: inc/theme-function.php:202
+msgid "Event Details"
+msgstr ""
+
+#: inc/theme-function.php:204
+msgid "Widget show on Event Details (Only show on event details page)"
+msgstr ""
+
+#: inc/theme-function.php:211
+msgid "Megamenu 1"
+msgstr ""
+
+#: inc/theme-function.php:213 inc/theme-function.php:222
+msgid ""
+"Widget show on megamenu. you can select this widget in the setting of menu"
+msgstr ""
+
+#: inc/theme-function.php:220
+msgid "Megamenu 2"
+msgstr ""
+
+#: inc/theme-function.php:246
+msgid "Back"
+msgstr ""
+
+#: inc/theme-function.php:247 inc/templates/post-action.php:60
+msgid "Next"
+msgstr ""
+
+#: inc/theme-function.php:273
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: inc/theme-function.php:278
+msgid "Reply"
+msgstr ""
+
+#: inc/theme-function.php:281
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/theme-function.php:316
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/theme-function.php:451
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/theme-function.php:452
+msgid "Facebook Username"
+msgstr ""
+
+#: inc/theme-function.php:453
+msgid "Google Plus Username"
+msgstr ""
+
+#: inc/theme-function.php:454
+msgid "Tumblr Username"
+msgstr ""
+
+#: inc/theme-function.php:455
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/theme-function.php:456
+msgid "Pinterest Username"
+msgstr ""
+
+#: inc/theme-function.php:479
+msgid "View all posts in %s"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:10
+msgid "Enable heading icon"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:14
+msgid "Yes"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:15
+msgid "No"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:17
+msgid "Icon for heading has been set in the theme option."
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:21
+msgid "Sub Title"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:24
+msgid "Subtitle as short description of box"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:32
+msgid "Background attachment"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:36
+msgid "Scroll"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:37 inc/theme_option/theme_option.php:197
+msgid "Fixed"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:38
+msgid "Local"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:39
+msgid "Inherit"
+msgstr ""
+
+#: vc_templates/dgt_custom_param.php:41
+msgid ""
+"Select Background attachment for row. Note: You need select background image "
+"and set background size is cover at design options tab."
+msgstr ""
+
+#: woocommerce/archive-product.php:44
+msgid "Charity Shop"
+msgstr ""
+
+#: inc/footer/coppyright.php:7
+msgid "Copyright WordPress Theme by Dragontheme"
+msgstr ""
+
+#: inc/header/header-mobile.php:11 inc/header/header-right.php:8
+msgid "Donate"
+msgstr ""
+
+#: inc/header/header-mobile.php:23 inc/templates/search.php:9
+msgid "Type and hit enter"
+msgstr ""
+
+#: inc/header/header-mobile.php:35 inc/header/header-right.php:25 
+#: inc/theme_option/theme_option.php:330
+msgid "Donate Now"
+msgstr ""
+
+#: inc/templates/cover-image.php:26
+msgid "Search results for: "
+msgstr ""
+
+#: inc/templates/cover-image.php:26 inc/templates/cover-image.php:28 
+#: inc/templates/cover-image.php:30 inc/templates/cover-image.php:32
+msgid "%s"
+msgstr ""
+
+#: inc/templates/cover-image.php:28
+msgid "Category: "
+msgstr ""
+
+#: inc/templates/cover-image.php:30
+msgid "Tag: "
+msgstr ""
+
+#: inc/templates/cover-image.php:34
+msgid "Page not found"
+msgstr ""
+
+#: inc/templates/cover-image.php:42
+msgid "Cause Details"
+msgstr ""
+
+#: inc/templates/cover-image.php:44
+msgid "Single Post"
+msgstr ""
+
+#: inc/templates/post-action.php:20
+msgid "Share it on:"
+msgstr ""
+
+#: inc/templates/post-action.php:54
+msgid "Prev"
+msgstr ""
+
+#: inc/templates/post-action.php:100
+msgid "see all post"
+msgstr ""
+
+#: inc/templates/related-post.php:21
+msgid "You Might Also Like"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:27 inc/theme_option/theme_option.php:28
+msgid "DGT Theme Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:52
+msgid "General Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:60
+msgid "Favicon Icon"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:62
+msgid "Upload favicon icon"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:68
+msgid "Site Layout"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:69
+msgid "Select layout type"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:72 inc/theme_option/theme_option.php:74
+msgid "Wide"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:77 inc/theme_option/theme_option.php:79
+msgid "Boxed"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:87
+msgid "Page Width"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:88
+msgid "Slide to select Page Width"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:101
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:102
+msgid "Fixed header / navigation when scroll"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:108
+msgid "Show loading icon"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:109
+msgid "Show icon pre loading"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:115
+msgid "Color icon loading"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:124
+msgid "Background color loading"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:133
+msgid "Enable Responsive"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:139
+msgid "Custom Width Page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:140
+msgid "Slide to select Custom Width Page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:153
+msgid "Enable Back To Top button"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:159
+msgid "Enable Back To Top On mobile"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:166
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:173
+msgid "Custom Javascript"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:179
+msgid "Header Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:187 inc/theme_option/theme_option.php:285
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:193
+msgid "Header position"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:194
+msgid "Select position for header"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:196
+msgid "Relative"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:204
+msgid "Header Height"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:205
+msgid "Slide to select header height"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:215
+msgid "Logo Image"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:217
+msgid "Upload Logo Image"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:222
+msgid "Logo Retina"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:224
+msgid "Upload Logo Retina"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:229 inc/theme_option/theme_option.php:236
+msgid "Logo Fixed Header"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:231 inc/theme_option/theme_option.php:238
+msgid "Upload Logo Fixed Header"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:243
+msgid "Logo Height"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:244
+msgid "Slide to select logo height"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:259
+msgid "Logo space"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:270
+msgid "Enable Search"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:276
+msgid "Header Top"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:291
+msgid "Enable social on top bar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:298
+msgid "Enable search on top bar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:305
+msgid "Top bar static"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:306 inc/theme_option/theme_option.php:307
+msgid "Fill text to top bar static"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:313
+msgid "Donate Button"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:322
+msgid "Enable Donate Button"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:328
+msgid "Donate Button Text"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:329
+msgid "Custom text for donate button"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:336
+msgid "Donate Button Link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:337
+msgid "Custom link for donate button"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:338
+msgid "#"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:345
+msgid "Footer Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:353
+msgid "Enable Footer Widget"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:359
+msgid "Full Width Footer"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:365
+msgid "Logo Footer"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:367
+msgid "Upload Logo Footer"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:372
+msgid "Enable Copyright "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:378
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:391
+msgid "Enable Social Footer"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:398
+msgid "Typography"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:406
+msgid "Body Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:407
+msgid "Specify the body font properties."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:420
+msgid "Menu Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:421
+msgid "Specify the menu font properties."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:434
+msgid "Button Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:435
+msgid "Specify the button font properties."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:448
+msgid "Custom Heading Icon"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:449
+msgid "Icon for heading."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:451
+msgid "None"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:452
+msgid "Image"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:453
+msgid "Svg"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:460
+msgid "Heading Icon Image"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:462
+msgid "Upload Image For Heading Icon"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:468
+msgid "Heading Icon Svg"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:470
+msgid "Paste svg code for heading icon"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:476
+msgid "H1 Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:477 inc/theme_option/theme_option.php:490 
+#: inc/theme_option/theme_option.php:503 inc/theme_option/theme_option.php:516 
+#: inc/theme_option/theme_option.php:529 inc/theme_option/theme_option.php:542
+msgid "Specify the heading font properties."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:489
+msgid "H2 Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:502
+msgid "H3 Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:515
+msgid "H4 Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:528
+msgid "H5 Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:541
+msgid "H6 Font"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:556
+msgid "Post / Page / Archive Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:564 inc/theme_option/theme_option.php:837 
+#: inc/theme_option/theme_option.php:927
+msgid "Enable Cover Image"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:565
+msgid "Enable Cover Image for post / page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:571
+msgid "Cover Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:572 inc/theme_option/theme_option.php:845 
+#: inc/theme_option/theme_option.php:935
+msgid "Cover background with image, color, etc."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:585 inc/theme_option/theme_option.php:858 
+#: inc/theme_option/theme_option.php:948
+msgid "Cover Image Height"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:586 inc/theme_option/theme_option.php:859
+msgid "Slide to select Cover Image Height"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:597
+msgid "Cover Text Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:604
+msgid "Cover Link Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:616
+msgid "Social Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:624
+msgid "Twitter"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:625
+msgid "Twitter link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:630
+msgid "Facebook"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:631
+msgid "Facebook link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:636
+msgid "Tumblr"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:637
+msgid "Tumblr link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:642
+msgid "Instagram"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:643
+msgid "Instagram link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:648
+msgid "Google+"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:649
+msgid "Google+ link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:654
+msgid "Pinterest"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:655
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:660
+msgid "LinkedIN"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:661
+msgid "LinkedIN link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:666
+msgid "Dribbble"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:667
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:672
+msgid "Youtube"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:673
+msgid "Youtube link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:678
+msgid "Vimeo"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:679
+msgid "Vimeo link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:684
+msgid "Yahoo"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:685
+msgid "Yahoo link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:690
+msgid "Github"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:691
+msgid "Github link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:696
+msgid "Foursquare"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:697
+msgid "Foursquare link"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:703
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:711
+msgid "Sidebar in page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:712
+msgid "Select sidebar in page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:714 inc/theme_option/theme_option.php:743 
+#: inc/theme_option/theme_option.php:772 inc/theme_option/theme_option.php:801 
+#: inc/theme_option/theme_option.php:892 inc/theme_option/theme_option.php:970
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:715 inc/theme_option/theme_option.php:744 
+#: inc/theme_option/theme_option.php:773 inc/theme_option/theme_option.php:802 
+#: inc/theme_option/theme_option.php:893 inc/theme_option/theme_option.php:971
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:716 inc/theme_option/theme_option.php:745 
+#: inc/theme_option/theme_option.php:774 inc/theme_option/theme_option.php:803 
+#: inc/theme_option/theme_option.php:894 inc/theme_option/theme_option.php:972
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:717 inc/theme_option/theme_option.php:746 
+#: inc/theme_option/theme_option.php:775 inc/theme_option/theme_option.php:804 
+#: inc/theme_option/theme_option.php:895 inc/theme_option/theme_option.php:973
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:724
+msgid "Sidebar Left in page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:725
+msgid "Select sidebar left display in page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:732
+msgid "Sidebar Right in page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:733
+msgid "Select sidebar right display in page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:740
+msgid "Sidebar in archive page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:741
+msgid "Select sidebar in archive page (category, search, tag....)"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:753
+msgid "Sidebar Left in archive page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:754
+msgid "Select sidebar left display in archive page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:761
+msgid "Sidebar Right in archive page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:762
+msgid "Select sidebar right display in archive page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:769
+msgid "Sidebar in single"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:770
+msgid "Select sidebar in single (Single post, post type...)"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:782
+msgid "Sidebar Left in single page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:783
+msgid "Select sidebar left display in single page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:790
+msgid "Sidebar Right in single page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:791
+msgid "Select sidebar right display in single page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:798
+msgid "Sidebar in single event"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:799
+msgid "Select sidebar in single event (only event)"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:811
+msgid "Sidebar Left in single event page "
+msgstr ""
+
+#: inc/theme_option/theme_option.php:812
+msgid "Select sidebar left display in single event page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:819
+msgid "Sidebar Right in single event page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:820
+msgid "Select sidebar right display in single event page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:829
+msgid "Woocommerce Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:838
+msgid "Enable Cover Image for shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:844
+msgid "Cover Background Shop Page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:870
+msgid "Custom title shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:872
+msgid "Enter text banner for shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:877
+msgid "Product Columns"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:878
+msgid "Number product columns display in shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:880
+msgid "2 Column"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:881
+msgid "3 Column"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:882
+msgid "4 Column"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:889
+msgid "Sidebar in shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:890
+msgid "Select sidebar in the shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:902 inc/theme_option/theme_option.php:980
+msgid "Widget for sidebar Left"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:903
+msgid "Select widget for sidebar left display in the shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:910 inc/theme_option/theme_option.php:988
+msgid "Widget for sidebar Right"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:911
+msgid "Select widget for sidebar right display in the shop page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:918
+msgid "Single Product"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:928
+msgid "Enable Cover Image for product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:934
+msgid "Cover Background Product Page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:949
+msgid "Slide to select Cover Image Height in the product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:960
+msgid "Custom title product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:962
+msgid "Enter text banner for product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:967
+msgid "Sidebar in product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:968
+msgid "Select sidebar in the product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:981
+msgid "Select widget for sidebar left display in the product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:989
+msgid "Select widget for sidebar right display in the product page"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:998
+msgid "Style Options"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1006
+msgid "Accent Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1014
+msgid "Accent color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1021
+msgid "Body Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1029
+msgid "Body Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1030
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1038 
+#: inc/theme_option/theme_option.php:1087 
+#: inc/theme_option/theme_option.php:1121 
+#: inc/theme_option/theme_option.php:1173 
+#: inc/theme_option/theme_option.php:1228 
+#: inc/theme_option/theme_option.php:1302 
+#: inc/theme_option/theme_option.php:1332
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1048
+msgid "Text Box Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1054
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1060 
+#: inc/theme_option/theme_option.php:1131
+msgid "Button Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1067
+msgid "Header Top Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1075
+msgid "Header Top Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1081 
+#: inc/theme_option/theme_option.php:1115 
+#: inc/theme_option/theme_option.php:1167 
+#: inc/theme_option/theme_option.php:1222 
+#: inc/theme_option/theme_option.php:1290 
+#: inc/theme_option/theme_option.php:1326
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1098
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1106
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1107
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1141
+msgid "Input Text Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1147
+msgid "Input Background Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1153
+msgid "Navigation Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1161
+msgid "Navigation Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1183
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1189
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1195
+msgid "Dropdown Link Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1205
+msgid "Content Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1213
+msgid "Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1214
+msgid "Content background with image, color, etc."
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1238
+msgid "Sidebar Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1246
+msgid "Widget background color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1252
+msgid "Widget title color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1258
+msgid "Widget text color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1264
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1274
+msgid "Footer Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1282
+msgid "Footer Background"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1296
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1312
+msgid "Copyright Style"
+msgstr ""
+
+#: inc/theme_option/theme_option.php:1320
+msgid "Copyright Background"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:19 inc/widgets/recent_posts.php:19
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:25
+msgid "DGT: Latest Cause"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:59 inc/widgets/recent_posts.php:59 
+#: inc/widgets/recent_posts.php:63
+msgid "Permanent Link:"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:77
+msgid "Raised"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:80
+msgid "Goal"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:117
+msgid "Latest Caused"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:125 inc/widgets/recent_posts.php:106
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:131 inc/widgets/recent_posts.php:112
+msgid "Filter by Category:"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:133 inc/widgets/recent_posts.php:114
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/recent_caused.php:143 inc/widgets/recent_posts.php:124
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent_posts.php:25
+msgid "DGT: Latest Posts"
+msgstr ""
+
+#: inc/widgets/recent_posts.php:98
+msgid "Latest Posts"
+msgstr ""
+
+#. Name of the theme
+msgid "DGT Soraka"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Wordpress non-profit theme is clean and many awesome functionality. Donate "
+"to cause with payment offline and Paypal"
+msgstr ""
+
+#. URI of the theme
+msgid "https://http://demo.dgtthemes.com/soraka/"
+msgstr ""
+
+#. Author of the theme
+msgid "Dragon Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://dgtthemes.com/"
+msgstr ""

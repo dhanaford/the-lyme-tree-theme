@@ -1,0 +1,273 @@
+/* ========== Import Mixin ============== */
+/* Responsive for large destop */
+/* Responsive for device 992px - 1200px */
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* Menu */
+  #dgt-navigation a {
+    font-size: 12px; }
+
+  .menu li a {
+    padding: 0 10px; }
+
+  /* Cause */
+  .dgt-element-cause.owl-theme .owl-controls {
+    top: 67px; }
+
+  .dgt-cause-status {
+    padding: 15px 0 0; }
+
+  .dgt-list-layout .dgt-cause-raised {
+    padding: 10px 0 0; }
+  .dgt-list-layout .dgt-cause-excerpt {
+    font-size: 12px; }
+  .dgt-list-layout .dgt-cause-inner .dgt-blog-title {
+    font-size: 16px;
+    padding: 0; }
+    .dgt-list-layout .dgt-cause-inner .dgt-blog-title a {
+      padding-bottom: 5px; }
+
+  /* Revolution slider */
+  .dgtnavigation .tp-bullet {
+    width: 188px;
+    font-size: 12px; } }
+/* Responsive for device max with 991px */
+@media (max-width: 991px) {
+  #sidebar-right {
+    margin-top: 30px; }
+
+  .sidebar .widget {
+    padding-bottom: 0; }
+  .sidebar .widget-title {
+    border-bottom: none;
+    margin-bottom: 0;
+    position: relative;
+    cursor: pointer; }
+    .sidebar .widget-title:after {
+      content: "\f3d0";
+      position: absolute;
+      font-family: "Ionicons";
+      right: 0;
+      top: -1px; }
+    .sidebar .widget-title.open:after {
+      content: "\f3d8"; }
+  .sidebar .widget-title + * {
+    border-top: 1px solid #e5e5e5;
+    padding: 20px 0 15px;
+    display: none; }
+
+  .site-footer {
+    margin-top: 50px; } }
+/* Responsive for device 768px - 992px */
+@media (min-width: 768px) and (max-width: 992px) {
+  /* Cause */
+  .dgt-element-cause.owl-theme .owl-controls {
+    top: 63px; }
+
+  .dgt-cause-status {
+    padding: 15px 0 0;
+    font-size: 14px; }
+
+  .dgt-list-layout .dgt-cause-infomation {
+    padding: 0; }
+  .dgt-list-layout .dgt-cause-raised {
+    padding: 10px 0 0; }
+  .dgt-list-layout .dgt-cause-excerpt {
+    display: none; }
+  .dgt-list-layout .dgt-cause-inner .dgt-blog-title {
+    font-size: 13px;
+    padding: 0; }
+    .dgt-list-layout .dgt-cause-inner .dgt-blog-title a {
+      padding-bottom: 5px; }
+  .dgt-list-layout .dgt-raised-number, .dgt-list-layout .dgt-goal-number {
+    font-size: 14px; }
+
+  .dgt-cause-inner, .dgt-event-inner {
+    padding: 0 10px; }
+
+  .dgt-raised-number, .dgt-goal-number {
+    font-size: 18px; }
+
+  .dgt-list-layout.dgt-list-alt .dgt-cause-inner .post-feature-image {
+    margin: 29px 0 0 -30px; }
+  .dgt-list-layout.dgt-list-alt-left .dgt-raised-percent {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 20px;
+    top: -35px;
+    right: 10px; }
+
+  .dgt-megamenu-custom-width .dgt-megamenu-content {
+    width: auto !important; }
+
+  /* Icon Box */
+  .dgt-icon-box .dgt-icon {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    margin: 0 0 -15px 0;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -khtml-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    line-height: 60px; }
+  .dgt-icon-box h4 {
+    font-size: 14px; }
+  .dgt-icon-box .dgt-icon-box-inner {
+    padding: 0 10px; }
+  .dgt-icon-box p {
+    font-size: 12px; }
+  .dgt-icon-box .dgt-readmore {
+    padding-top: 0; }
+
+  /* Revolution slider */
+  .dgtnavigation .tp-bullet {
+    font-size: 10px;
+    width: 144px;
+    padding: 26px 9px; }
+
+  /* Team */
+  .dgt-team-item-inner {
+    padding: 10px; }
+    .dgt-team-item-inner h4 {
+      font-size: 13px; }
+    .dgt-team-item-inner .dgt-team-avatar {
+      padding: 10px 10px 20px; }
+    .dgt-team-item-inner .dgt-social {
+      padding: 15px 0 3px; }
+
+  /* Counter box */
+  .dgt-counter-box h3 {
+    font-size: 30px; }
+
+  .tp-parallax-wrap {
+    padding: 0 15px; } }
+/* Responsive for device max with 767px */
+@media (max-width: 767px) {
+  .dgt-xs-pl15 {
+    padding-left: 15px !important; }
+
+  .tp-parallax-wrap {
+    padding: 0 0 0 15px; }
+
+  /* Cause */
+  .dgt-list-layout .dgt-cause-inner {
+    padding-bottom: 30px; }
+    .dgt-list-layout .dgt-cause-inner .post-feature-image {
+      padding-left: 0; }
+
+  .dgt-grid-layout .dgt-cause-item {
+    margin-bottom: 120px; }
+    .dgt-grid-layout .dgt-cause-item:last-child {
+      margin-bottom: 0; }
+
+  .dgt-cause-status {
+    padding: 0; }
+
+  .dgt-element-cause.owl-theme .owl-controls {
+    top: auto;
+    bottom: 28px; }
+
+  /* Donate Form */
+  .dgt-donate-form-wrapper .dgt-paypal-form {
+    width: auto; }
+  .dgt-donate-form-wrapper .dgt-amount-button {
+    width: 50px;
+    height: 30px;
+    line-height: 28px;
+    font-size: 12px; }
+
+  .dgt-list-layout.dgt-list-alt .dgt-cause-inner .post-feature-image {
+    margin: -20px 20px; }
+  .dgt-list-layout.dgt-list-alt.owl-theme .owl-controls {
+    left: 50%;
+    right: auto;
+    bottom: -50px;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -khtml-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%); }
+  .dgt-list-layout.dgt-list-alt-left .dgt-raised-percent {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 20px;
+    top: -35px;
+    right: 10px; }
+
+  /* Icon Box */
+  .dgt-icon-box {
+    margin-bottom: 60px; }
+
+  /* Revolution slider */
+  .dgtnavigation {
+    display: none; }
+
+  /* Footer */
+  .footer-newsletter .widget-title {
+    float: none;
+    text-align: center;
+    margin-bottom: 20px; }
+
+  .footer-widget {
+    padding: 36px 0 0; }
+    .footer-widget .widget-title {
+      position: relative;
+      cursor: pointer; }
+      .footer-widget .widget-title:after {
+        content: "\f3d0";
+        position: absolute;
+        font-family: "Ionicons";
+        right: 0;
+        top: 0; }
+      .footer-widget .widget-title.open:after {
+        content: "\f3d8"; }
+      .footer-widget .widget-title + div {
+        display: none; }
+
+  .site-footer .widget {
+    margin-bottom: 30px; }
+
+  .dgt-megamenu-custom-width .dgt-megamenu-content {
+    width: auto !important; }
+
+  .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    width: calc(50% - 30px); } }
+/* Responsive for device max with 640px */
+@media (max-width: 640px) {
+  .newsletter .newsletter-email {
+    width: 286px; }
+
+  .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    width: calc(100% - 30px); } }
+/* Responsive for device max with 480px */
+@media (max-width: 480px) {
+  .header-mobile .header-mobile-inner {
+    min-width: 320px; }
+  .header-mobile .dgt-button {
+    padding: 0 15px;
+    font-size: 12px; }
+  .header-mobile .searchform .dgt-search-form {
+    width: 100%; }
+  .header-mobile .dgt-search-wrap, .header-mobile .dgt-button-donate {
+    float: none;
+    width: 100%;
+    margin: 5px 0; }
+    .header-mobile .dgt-search-wrap a, .header-mobile .dgt-button-donate a {
+      display: block; }
+
+  /* Donate Form */
+  .dgt-donate-form-wrapper {
+    padding: 27px 15px; }
+    .dgt-donate-form-wrapper .dgt-heading {
+      font-size: 20px; }
+    .dgt-donate-form-wrapper .dgt-sub-title {
+      font-size: 12px; }
+    .dgt-donate-form-wrapper .dgt-amount-button {
+      margin: 0 10px 10px 0; } }
+
+/*# sourceMappingURL=dgt-responsive.css.map */

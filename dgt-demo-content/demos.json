@@ -1,0 +1,41 @@
+{
+	"base-data": {
+		"installed": 0
+	},
+	"home-1": {
+		"name": "HOME 1",
+		"detail": "",
+		"categories": [""],
+		"installed": 0,
+		"sliders": [
+			"http://plugins.dgtthemes.com/soraka/slider/slider-home-1.zip"
+		]
+	},
+	"home-2": {
+		"name": "HOME 2",
+		"detail": "",
+		"categories": [""],
+		"installed": 0,
+		"sliders": [
+			"http://plugins.dgtthemes.com/soraka/slider/slider-home-2.zip"
+		]
+	},
+	"home-3": {
+		"name": "HOME 3",
+		"detail": "",
+		"categories": [""],
+		"installed": 0,
+		"sliders": [
+			"http://plugins.dgtthemes.com/soraka/slider/slider-home-3.zip"
+		]
+	},
+	"home-4": {
+		"name": "HOME 4",
+		"detail": "",
+		"categories": [""],
+		"installed": 0,
+		"sliders": [
+			"http://plugins.dgtthemes.com/soraka/slider/slider-home-4.zip"
+		]
+	}
+}
